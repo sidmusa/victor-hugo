@@ -1,0 +1,10 @@
+---
+hide_body: false
+fields:
+- type: textarea
+  name: hey
+  label: Hey
+  description: foresty  is great.
+  hidden: true
+  config:
+    wysiwyg: true
